@@ -3,4 +3,4 @@ project(XO_C__)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(XO_C__ main.cpp vstavka.h vstavka.cpp buble.h buble.cpp)
+add_executable(XO_C__ main.cpp vstavka.h vstavka.cpp buble.h buble.cpp calculator.h calculator.cpp)
